@@ -16,4 +16,4 @@
 
 Instrucciones: contesta el siguiente examen en el lenguaje de programación de tu preferencia, o bien, en pseudocódigo. Envía tus resspuetas al correo gerardo@nextia.mx
 
-El examen lo encuentran en [aquí](0_bienvenida_y_diagnostico.ipynb)
+El examen lo encuentran en [aquí](examen_diagnostico.ipynb)
