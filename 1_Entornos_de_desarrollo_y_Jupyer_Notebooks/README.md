@@ -19,4 +19,14 @@ El proceso de instalación de Python depende del sistema operativo.
 
 ### 2. Proyecto Jupyter
 - [Leer más de Jupyter](https://jupyter.org/)
+
+---
+
+### 3. Cuadernos de Jupyter
 - [Cuaderno de Jupyter en acción](Primer_notebook.ipynb)
+
+---
+
+### 4. Instalar Jupyter con kernel de Python
+- [Guía de instalación de Jupyter para Python 3](https://jupyter.org/install)
+
