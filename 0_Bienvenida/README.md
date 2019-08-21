@@ -1,4 +1,4 @@
-    # Curso de análisis de datos con Python
+# Curso de análisis de datos con Python
 #### Profesor: Gerardo Mathus @gemathus
 
 ## Temario:
