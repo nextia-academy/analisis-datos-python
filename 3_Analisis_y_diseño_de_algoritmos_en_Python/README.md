@@ -12,8 +12,9 @@ Python es muy fácil de aprender y de enseñar. Gracias a su sintaxis simple - y
 
 ---
 
-Consideren el siguietne programa de C#
+A continuación se muestran el código en **`C#`** de un programa que pide al usuario su edad y éste determina si el usuario es mayor de edad o no. Posteriormente se muestar el mismo programa pero en código de **`Python`**
 
+#### C#
 ```
 using System;
 namespace HolaMundo
@@ -39,7 +40,7 @@ namespace HolaMundo
     }
 }
 ```
-### Y ahora en Python
+#### Python
 ```
 print("Hola mundo")
 //pedir y leer edad

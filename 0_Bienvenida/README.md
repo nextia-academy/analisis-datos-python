@@ -71,3 +71,22 @@
 Instrucciones: contesta el siguiente examen en el lenguaje de programación de tu preferencia, o bien, en pseudocódigo. Envía tus resspuetas al correo gerardo@nextia.mx
 
 El examen lo encuentran en [aquí](examen_diagnostico.ipynb)
+
+
+## Pseudocódigo
+*Que se parece al código*
+
+---
+
+#### Ejemplo 1
+![Pseudocódigo](img/pseudo3.jpg "Pseudocódigo")
+
+---
+
+#### Ejemplo 2
+![Pseudocódigo](img/pseudo1.jpg "Pseudocódigo")
+
+---
+
+#### Ejemplo 3
+![Pseudocódigo](img/pseudo2.jpg "Pseudocódigo")
