@@ -4,7 +4,6 @@
 ## Temario:
 1. [Entornos de desarollo y Jupyter Notebooks](../1_Entornos_de_desarrollo_y_Jupyer_Notebooks)
     - Instalación de Python
-    - Entornos virtuales de Python
     - Repaso de línea de comando
     - Jupyter
     - Jupyter Notebooks
