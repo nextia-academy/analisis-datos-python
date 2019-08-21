@@ -30,3 +30,6 @@ El proceso de instalación de Python depende del sistema operativo.
 ### 4. Instalar Jupyter con kernel de Python
 - [Guía de instalación de Jupyter para Python 3](https://jupyter.org/install)
 
+
+### 5. Paquetes
+- [PyPi](https://pypi.org/)
